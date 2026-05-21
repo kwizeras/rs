@@ -37,7 +37,7 @@ alembic = "^1.0.0"
 python-dateutil = "^2.0.0"
 fastapi-login = "^1.8.0"
 pydal = ">=20210215.1"
-python-multipart = "^0.0.5"
+python-multipart = ">=0.0.5,<0.0.28"
 # asyncpg v. 0.25 has a `bug <https://github.com/MagicStack/asyncpg/issues/884>`_. Stay at v. 0.24 until it's fixed.
 asyncpg = "^0.28.0"
 SQLAlchemy = "^1.0.0"
